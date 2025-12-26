@@ -1,7 +1,14 @@
 
-# Welcome to your CDK Python project!
+# Welcome to TheAutomationLab, This Repository creates the AWS resources using cdk with python.
+This cdk creates a VPC, an EC2 instance with new security group, RDS instance with scheduled uptime.
+Please follow below for the cdk & infrastructure configuration.
+Pre-requisities packages for setting up the project,Use `cdk_setup.sh` file to setup the listed packages-
+ * node
+ * npm
+ * cdk
 
-This is a blank project for CDK development with Python.
+Also, Install  `aws-cli` for setting up AWS credentials.
+
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
