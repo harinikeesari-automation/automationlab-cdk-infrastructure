@@ -1,5 +1,5 @@
 
-# Welcome to TheAutomationLab, This Repository creates the AWS resources with cdk using python.
+# Welcome to TheAutomationLab, This Repository creates the AWS resources using cdk with python.
 This cdk creates a VPC, an EC2 instance with new security group, RDS instance with scheduled uptime.
 Please follow below for the cdk & infrastructure configuration.
 Pre-requisities packages for setting up the project,Use `cdk_setup.sh` file to setup the listed packages-
